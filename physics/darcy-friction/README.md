@@ -12,4 +12,4 @@ This study investigates the fluid dynamics of laminar flow, specifically the rel
 * **Gradient Analysis:** The experimental gradient was calculated at **-0.9763**, which aligns with the theoretical gradient of **-1** within a tight margin of error.
 
 ### View the Research
-[Download Paper (PDF)](./darcy-friction-analysis.pdf)
+[Download Paper (PDF)](./darcy-friction-factor-analysis.pdf)
