@@ -15,4 +15,4 @@ This paper contrasts the mathematical foundations and computational efficiency o
 The analysis confirms that ECC offers superior efficiency, requiring significantly smaller key sizes (256-bit) to match the security of much larger RSA keys (3072-bit), making it ideal for resource-constrained environments.
 
 ### View the Research
-[Download Paper (PDF)](./rsa-ecc-analysis.pdf)
+[Download Paper (PDF)](./rsa-vs-ecc-cryptography.pdf)
