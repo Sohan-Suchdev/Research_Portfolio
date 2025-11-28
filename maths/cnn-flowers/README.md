@@ -14,4 +14,4 @@ This project explores the mathematical architecture and implementation of Convol
 * **Stack:** Python, Mathematical derivation in $\LaTeX$.
 
 ### View the Research
-[Download Paper (PDF)](./cnn-construction.pdf)
+[Download Paper (PDF)](./cnn-construction-flower-recognition.pdf)
